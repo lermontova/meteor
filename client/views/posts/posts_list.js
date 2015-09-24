@@ -10,6 +10,6 @@ postsData = [
   }
 ];
 
-Template.postsLists.helpers({
+Template.postsList.helpers({
   posts: postsData
 });

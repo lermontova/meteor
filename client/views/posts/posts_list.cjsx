@@ -5,5 +5,5 @@ postsData = [
   url:'https://www.youtube.com/playlist?list=PLGKrghb-9eAB4x84PNSQukU9VaRMbvQu6'
   }
 ]
-Template.postsLists.helpers
+Template.postsList.helpers
   posts : postsData
